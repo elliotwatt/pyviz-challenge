@@ -19,7 +19,7 @@ Charts and Map:
 <p>&nbsp;</p>
 Housing Units Change By Year:
 <p>&nbsp;</p>
-![Housing Units By Year](Images/zoomed-housing-units-by-year.png)
+<img height='400' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/zoomed-housing-units-by-year.png'
 <p>&nbsp;</p>
 Sales Price and Rental Income Change Per Year:
 <p>&nbsp;</p>
@@ -27,7 +27,7 @@ Sales Price and Rental Income Change Per Year:
 <p>&nbsp;</p>
 Sales Price and Rental Income Change Per Year by Neighborhood:
 <p>&nbsp;</p>
-<img height='400' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/pricing-info-by-neighborhood.png'>
+<img height='300' width='1000' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/pricing-info-by-neighborhood.png'>
 <p>&nbsp;</p>
 Map of San Fransisco Showing Sales Price and Rental Income by Neighborhood:
 <p>&nbsp;</p>
