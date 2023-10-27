@@ -17,7 +17,18 @@ properties
 Charts and Map:
 </h3>
 <p>&nbsp;</p>
-Housing Units Change By Year
+Housing Units Change By Year:
 <p>&nbsp;</p>
 <img height='400' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/zoomed-housing-units-by-year.png'>
-
+<p>&nbsp;</p>
+Sales Price and Rental Income Change Per Year:
+<p>&nbsp;</p>
+<img height='400' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/avg-sale-px-sq-foot-gross-rent.png'>
+<p>&nbsp;</p>
+Sales Price and Rental Income Change Per Year by Neighborhood:
+<p>&nbsp;</p>
+<img height='400' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/pricing-info-by-neighborhood.png'>
+<p>&nbsp;</p>
+Map of San Fransisco Showing Sales Price and Rental Income by Neighborhood:
+<p>&nbsp;</p>
+<img height='400' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/6-4-geoviews-plot.png'>
