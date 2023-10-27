@@ -19,5 +19,5 @@ Charts and Map:
 <p>&nbsp;</p>
 Housing Units Change By Year
 <p>&nbsp;</p>
-<img height='200' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/zoomed-housing-units-by-year.png'>
+<img height='400' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/zoomed-housing-units-by-year.png'>
 
