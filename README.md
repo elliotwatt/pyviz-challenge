@@ -18,4 +18,6 @@ Charts and Map:
 </h3>
 <p>&nbsp;</p>
 Housing Units Change By Year
-![Housing Units By Year](Berkeley\challenges\pyviz-challenge\pyviz_code\Images\zoomed-housing-units-by-year.png)
+<p>&nbsp;</p>
+<img height='200' width='700' src='https://github.com/elliotwatt/pyviz-challenge/blob/main/pyviz_code/Images/zoomed-housing-units-by-year.png'>
+
